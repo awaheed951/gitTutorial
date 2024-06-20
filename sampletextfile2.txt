@@ -1,3 +1,5 @@
 This is a sample file, text is ok. file updating
 some new code changes update
+<<<<<<< HEAD
 code changes in master
+new code changes
